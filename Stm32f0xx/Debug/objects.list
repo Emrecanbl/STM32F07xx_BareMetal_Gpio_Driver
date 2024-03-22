@@ -1,0 +1,5 @@
+"./Driver/Src/STM32F0XX_GPIO_driver.o"
+"./Src/Interrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f072rbtx.o"
